@@ -1,0 +1,21 @@
+body {color: blue;}
+body { background-color: rgb(240, 181, 181);}
+
+
+
+.twoColFixReHdr #banner
+{
+    height: 120px;
+    text-align: center;
+}
+.twoColFixRtHdr #banner img
+{
+   border:solid 1px black;
+   margin:10px 5px 10px 5px;
+   float:left;
+}
+
+
+
+
+
